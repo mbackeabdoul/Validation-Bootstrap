@@ -1,0 +1,379 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* outline: 1px solid black; */
+}
+/* navbar */
+.pik{
+    color:#3CDA5F;
+}
+.shopNow{
+    display: flex;
+    justify-content: space-around;
+    gap: 15px;
+}
+.shopNow button{
+    background-color:#3CDA5F;
+    border: none;
+    color:#FFFFFF;
+    /* height: 1%; */
+}
+.shopNow2 button{
+    background-color:#3CDA5F;
+    border: none;
+    color:#FFFFFF;
+    width: 20%;
+}
+
+#navbarNav a{
+    color:#0A2640;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+/* fin navbar */
+
+
+
+/* form */
+
+
+.all{
+    background-color:#FFFFFF;
+    border-radius: 50px;
+    width: 23%;
+    display: flex;
+    justify-content: space-around;
+    /* padding: 5px; */
+    text-align: center;
+    box-shadow:#FFFFFF;
+    margin-top: 10px;
+    color: #0A2640;
+    
+}
+
+
+.alll{
+    background-color: #3CDA5F;
+    border-radius: 5px;
+    color: #FFFFFF;
+}
+/* .form1 ::placeholder{
+    color: #0A2640;
+    font-size: 20px;
+    text-align: end;
+}
+
+.form1 input{
+    border-radius: 50px;
+} */
+.form-2 input{
+    border-radius: 20px;
+
+}
+.form2 ::placeholder{
+    color: #0A2640;
+    font-size: 20px;
+}
+/* fin formulaire */
+
+/* section */
+.groceries{
+    background:rgba(60, 218, 95, 0.05);
+    /* width: 30%; */
+    border-radius: 50px;
+    color: #0A2640;
+
+}
+.header- h1{
+    color:#0A2640;
+    font-size:65px;
+}
+.header- h2{
+    color:  #FD273B;
+    font-size: 40px;
+}
+.background-vert{
+    /* position: relative;
+    background-color: #3CDA5F;
+    border-radius: 100% 70% 30% 20%;
+    border-radius:\ 60% 30% 30% 20%; */
+    background-image: url("./images/Ellipse\ 7.png");
+    background-size: cover;
+}
+.jeune-fille img{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+}
+
+.card-circle h6{
+    font-size:13px;
+    color: #000000;
+    /* text-align: center; */
+}
+.card-circle p{
+    font-weight: 400;
+    color: #777676;
+    font-size: 10px;
+}
+/* header fin */
+
+
+/* Products */
+.border-- {
+    border: 1px solid #3CDA5F;
+    border-radius:10px;
+}
+.border-- img{
+    
+    height: 100px;
+    width: 200px;
+    border-radius: 10px;
+}
+/* finnnnn */
+
+/* deal week */
+
+.deal-week h2{
+    color: #0A2640;
+
+}
+.days{
+    background-color: #3CDA5F;
+    color: #FFFFFF;
+    width: 35px;
+    font-size: 9px;
+    border-radius: 4px;
+    font-weight: 500;
+    text-align: center;
+    height: 30px;
+    /* padding: 2px; */
+    margin-top: 8px;
+    /* padding: 20px; */
+}
+
+/* .kkk-{
+    border-radius: 20px;
+
+} */
+.arbre img{
+    width: 300px;
+    height: 316px;
+    border-radius: 4px;
+    
+}
+.arbre h4{
+    color: #3CDA5F;
+}
+.Perfumes{
+    border-radius: 4px;
+}
+.Perfumes h6{
+    color: #184363;
+    font-size: 15px;
+
+}
+.Perfumes h4{
+    color: #184363;
+
+}
+.Perfumes i{
+    color: #3CDA5F;
+    font-size:9px;
+    /* font-weight: 200; */
+}
+.Perfumes p{
+    color:#0A2640;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.buy-now{
+    background-color:#EDF4F6;
+    color: #184363;
+    border-radius: 50px;
+    text-align: center;
+}
+
+/* finn */
+
+/* medical */
+.formm{
+    background: #F2971F;
+    color: #FFFFFF;
+    border-radius: 50px;
+    width: 100px;
+    text-align: center;
+    /* padding: 10px; */
+}
+.now{
+    background-color: #184363;
+    color: #FFFFFF;
+    border-radius: 50px;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    margin-top: 10px;
+    
+}
+
+.face h1{
+    color: #184363;
+}
+
+.mask img{
+    border-radius: 10px;
+}
+
+.maskk{
+    color: #184363;
+
+}
+/* finnnnnn */
+
+ .Polygon img{
+    width: 350px;
+    margin-top: 10px;
+} 
+.Polygon p{
+    color: #184363;
+    /* margin-top: 40px; */
+    font-size: 2rem;
+}
+
+.Polygon span{
+    color: #FD273B;
+}
+.Actions{
+    color: #184363;
+}
+/* Unlock */
+
+.Unlock{
+    /* background-color: #3CDA5F; */
+    background-image: url(./images/Background\ Blue.png);
+    width: 100vw;
+
+}
+.Unlock h2{
+    color: #184363;
+}
+.Unlock h6{
+    color: #184363;
+}
+.Unlock .card{
+    border-radius: 10px;
+}
+.arrow i{
+    background-color: #EDF4F6;
+    border-radius: 50%;
+    padding: 6px;
+    color: #184363;
+}
+/* finnn */
+
+/*  */
+.Rectangle{
+    background-image: url(./images/Rectangle\ 1905.png);
+}
+
+.Rectangle button{
+    background-color: #3CDA5F;
+    width: 40%;
+    color: #EDF4F6;
+    border-radius: 6px;
+}
+.Rectangle h1{
+    color: #184363;
+}
+
+.footer{
+    background-color: #184363;
+}
+
+@media screen and (max-width:600px){
+
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    .shopNow{
+        display:none;
+    }
+    
+    .shopNow2 button{
+        width: 30%;
+    }
+
+    .all{
+        width: 100%;
+    }
+    form{
+        width: 100vw;
+    }
+    .deal-week .card{
+        /* width: 100%; */
+        height: 86%; 
+        font-size: 10px;
+        padding: auto;
+        margin: auto;
+    }
+
+    .days{
+        background-color: #3CDA5F;
+        color: #FFFFFF;
+        width: 2%px;
+        border-radius: 4px;
+        font-weight: 100;
+        text-align: center;
+        height: 2%px;
+        margin-right: 3%;
+       
+    }
+
+    .days p{
+    font-size: 10px;
+    }
+    .deal-week .card h6, h4, p, i{
+        font-size: 13px;
+
+        /* font-size: 10px; */
+    }
+
+    .deal-week .buy-now p, i{
+        font-size:7px;
+        /* width: 100%; */
+    }
+
+    .mask{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        /* width: 100%; */
+    }
+
+    .mask h1{
+        font-size: 11px;
+    }
+    .now{
+        background-color: #184363;
+        color: #FFFFFF;
+        border-radius: 50px;
+        width: 70px;
+        height: 18px;
+        font-size: 10px;
+        text-align: center;
+        /* margin-top: 10px; */
+    }
+
+    .footer{
+        text-align: center;
+    }
+
+    .footer i{
+        font-size: 15px;
+    }
+}
